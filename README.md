@@ -10,10 +10,12 @@ The questions i solved
 ## String
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/shreya-singh-rajawat/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3396-valid-word](https://github.com/shreya-singh-rajawat/Leetcode/tree/master/3396-valid-word) |
 ## Array
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/shreya-singh-rajawat/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/shreya-singh-rajawat/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shreya-singh-rajawat/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/shreya-singh-rajawat/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -27,4 +29,12 @@ The questions i solved
 |  |
 | ------- |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/shreya-singh-rajawat/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/shreya-singh-rajawat/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/shreya-singh-rajawat/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
