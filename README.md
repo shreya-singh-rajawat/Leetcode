@@ -11,6 +11,7 @@ The questions i solved
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shreya-singh-rajawat/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/shreya-singh-rajawat/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3396-valid-word](https://github.com/shreya-singh-rajawat/Leetcode/tree/master/3396-valid-word) |
 ## Array
 |  |
@@ -46,4 +47,12 @@ The questions i solved
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/shreya-singh-rajawat/Leetcode/tree/master/1813-maximum-erasure-value) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/shreya-singh-rajawat/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Greedy
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/shreya-singh-rajawat/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
